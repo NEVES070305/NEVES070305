@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://beacons.al/NEVES070305">
-  <img height=180cm src="https://github-readme-stats.vercel.app/api?username-NEVES070305&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height=180cm src="https://github-readme-stats.vercel.app/api?username=NEVES070305&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
